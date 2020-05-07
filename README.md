@@ -1,4 +1,4 @@
-# SoloLearn-Challeges
+# SoloLearn-Challenges
 Practical Solutions to SoloLearn coding challenges 
 
 - Python
