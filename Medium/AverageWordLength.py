@@ -19,3 +19,4 @@ chars = len(re.sub(r'\W+', '', essay))
 
 average = int(c(chars / words))
 print(average)
+ 
