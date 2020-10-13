@@ -7,5 +7,5 @@ if income > 21:
 elif income < 21:
     print("Loss")
 else:
-    print("Broke Even")
+    print("Break Even")
 
